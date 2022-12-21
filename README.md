@@ -8,9 +8,15 @@
 
 <h2>Skills and Experience:</h2>
 <p>
-  <em>⦿ HTML   </em>      ⦿ CSS       ⦿ JAVASCRIPT
- ⦿ DART       ⦿ C         ⦿ PYTHON
- ⦿ SHELL      ⦿ FLUTTER   ⦿ SQL
+ <li> ⦿ HTML  </li>       
+  <li> ⦿ CSS   </li>   
+  <li> ⦿ JAVASCRIPT </li> 
+ <li> ⦿ DART   </li>     
+ <li>  ⦿ C     </li>     
+  <li> ⦿ PYTHON </li> 
+<li>  ⦿ SHELL    </li>   
+ <li>  ⦿ FLUTTER   </li> 
+ <li>  ⦿ SQL </li> 
 </p>
 
 <h2>Github Stats:</h2>
