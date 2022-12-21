@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <!--![](./meme.svg) -->
 
 
-<div style="width: 100%;">
-  <img src="meme.svg" style="width: 100%;" alt="Click to see the source">
-</div>
 
-###<a>https://main.d36tti42k3ql8d.amplifyapp.com/</a>
+
+#<a>https://main.d36tti42k3ql8d.amplifyapp.com/</a>
