@@ -25,6 +25,8 @@ h1 {
 }
       </style>
       <h1>Hello, world</h1>
+      
+      <iframe src="demo_iframe.htm" style="height:200px;width:300px" title="Iframe Example"></iframe>
     </div>
   </foreignObject>
 </svg>
