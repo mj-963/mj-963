@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **mj-963/mj-963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](./meme.svg)
+<!-- ![](./meme.svg) -->
+<div style="width: 100%;">
+  <img src="meme.svg" style="width: 100%;" alt="Click to see the source">
+</div>
