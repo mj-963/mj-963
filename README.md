@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![](./meme.svg) -->
-<div style="width: 100%;">
-  <img src="meme.svg" style="width: 100%;" alt="Click to see the source">
-</div>
+![](./meme.svg)
+
