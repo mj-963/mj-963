@@ -6,11 +6,14 @@
   <img src="meme.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-##Skills and Experience:
+<h2>Skills and Experience:</h2>
+<p>
  ⦿ HTML       ⦿ CSS       ⦿ JAVASCRIPT
  ⦿ DART       ⦿ C         ⦿ PYTHON
  ⦿ SHELL      ⦿ FLUTTER   ⦿ SQL
+</p>
 
+<h2>Github Stats:</h2>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mj-963)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/marcusjofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/mj-official)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://main.d36tti42k3ql8d.amplifyapp.com/)  
 
