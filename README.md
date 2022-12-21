@@ -8,7 +8,7 @@
 
 <h2>Skills and Experience:</h2>
 <p>
- ⦿ HTML       ⦿ CSS       ⦿ JAVASCRIPT
+  <em>⦿ HTML</em>      ⦿ CSS       ⦿ JAVASCRIPT
  ⦿ DART       ⦿ C         ⦿ PYTHON
  ⦿ SHELL      ⦿ FLUTTER   ⦿ SQL
 </p>
