@@ -1,25 +1,3 @@
-<svg fill="none" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-         
-                    <div >
-                        <div >
-                            <h3 class="hello">
-                                Hello, my name is <span class="name">Marcus Jacob</span>
-                            </h3>
-                            <h3 class="my-profession">I' m a <span class="typing">Developer</span></h3>
-                            <p>
-                                I'm a web Developer, Graphic Desiner and a Mobile Application Developer with Extensive
-                                experience for over 4years. my expertise is to develope and create websites, web
-                                designs, graphic designs, application softwares and many more...
-                            </p>
-                            <a href="#about" class="btn hire-me">About Me</a>
-                        </div>
-                        <div>
-<!--                             <img src="passport.jpg" alt="My Photo"> -->
-                        </div>
-                    </div>
-                <
-   
-
-  </foreignObject>
-</svg>
+  <svg height="100%" width="100%">
+    <rect fill="lime" width="100%" height="100%"/>
+  </svg>
