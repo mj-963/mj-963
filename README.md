@@ -19,12 +19,12 @@
  <li>  ⦿ SQL </li> 
 </p>
 
-<h2>You can Reach me on:</h2>
+<h2>You can Reach me on Linkedin:</h2>
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marcusjofficial/)
 
-<h2> Or Visit my Website for detailed Info:</h2>
-[marcusjacob.com](https://mj-963.github.io/)
+<h2> Or Visit my Website for More Infomation:</h2>
+(https://mj-963.github.io/)
  
 <h2>Github Stats:</h2>
 
