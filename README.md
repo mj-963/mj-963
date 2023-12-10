@@ -20,7 +20,6 @@
 </p>
 
 <h2>You can Reach me on Linkedin:</h2>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="marcusjofficial" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/marcusjofficial?trk=profile-badge">Marcus Jacob</a></div>
               
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marcusjofficial/)
 
