@@ -23,8 +23,8 @@
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marcusjofficial/)
 
-<h2> Or Visit my Website for detailed Info:</h2>h2>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mj-963.github.io/)
+<h2> Or Visit my Website for detailed Info:</h2>
+[marcusjacob.com](https://mj-963.github.io/)
  
 <h2>Github Stats:</h2>
 
