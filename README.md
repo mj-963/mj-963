@@ -26,11 +26,11 @@
 <h2>My Portfolio:</h2>
 https://mj-963.github.io
  
-<h2>Github Stats:</h2>
+# <h2>Github Stats:</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mj-963)](https://github.com/anuraghazra/github-readme-stats)
+#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mj-963)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mj-963&show_icons=true)  
+#![GitHub stats](https://github-readme-stats.vercel.app/api?username=mj-963&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mj-963)  
+#![GitHub streak stats](https://streak-stats.demolab.com/?user=mj-963)  
 
