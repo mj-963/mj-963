@@ -48,7 +48,8 @@ A **Dart backend package** for secure API handling with **JWT authentication, Ap
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcus963/)  
 - 📧 Email: marcusjacob5963@gmail.com  
 
-### 📊 GitHub Stats  
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mj-963&layout=compact&theme=radical)  
 
 ---
