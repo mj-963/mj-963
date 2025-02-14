@@ -7,9 +7,18 @@ I'm a passionate **Flutter Developer** and **Software Engineer** with a strong f
 - 🎨 **Interests**: AI, Flutter, UI/UX, Backend Systems  
 - 📱 **Currently Building**: [ImageFlux](https://play.google.com/store/apps/details?id=com.marcusxtechnologies.imageflux) – an AI-powered content creation app  
 
+
 ## 🔥 Projects  
 ### 🚀 [ImageFlux](https://play.google.com/store/apps/details?id=com.marcusxtechnologies.imageflux)  
-A powerful AI content generator for **images, videos, music, and TTS**. 
+A powerful AI content generator for **images, videos, music, and TTS**:
+- 🖼️ **Text-to-Image & Image-to-Image** – Create breathtaking AI-generated art  
+- 🎥 **Text-to-Video & Image-to-Video** – Bring ideas and photos to life with cinematic AI animation  
+- 🎵 **AI Music Generation** – Compose unique soundtracks instantly  
+- 🔊 **Realistic Text-to-Speech (TTS)** – Ultra-natural AI voiceovers  
+- 🚀 **AI-Powered Prompt Builder** – Smart suggestions for perfect results  
+- 📈 **Upscaling & Image Enhancement** – Boost resolution and sharpen details  
+- 🎭 **Diverse Artistic Styles** – From hyperrealism to abstract creativity 
+
 
 ### 🤖 [MJ - Smarter AI Chatbot](https://play.google.com/store/apps/details?id=com.marcusxtechnologies.mj)  
 An **advanced AI chatbot** powered by **GPT-4o/GPT-4** offering:  
@@ -20,6 +29,7 @@ An **advanced AI chatbot** powered by **GPT-4o/GPT-4** offering:
 - ⚙️ **Specialist MJ Personas**  
 - 🌗 **Dynamic Dark & Light Modes**  
 - 🌍 **Multi-Language Support**, including **Nigerian Pidgin**
+
 
 ### 📱 [QR Leap](https://play.google.com/store/apps/details?id=com.marcusxtechnologies.qrleap)  
 The ultimate QR code **generation and scanning** app with:  
@@ -33,13 +43,13 @@ The ultimate QR code **generation and scanning** app with:
 ### 🛠️ Secure RESTful API Package  
 A **Dart backend package** for secure API handling with **JWT authentication, Appwrite support, and middleware architecture**.  
 
+
 ## 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcus963/)  
 - 📧 Email: marcusjacob5963@gmail.com  
 
 ### 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mj-963&layout=compact&theme=radical)  
 
 ---
 
