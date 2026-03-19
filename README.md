@@ -1,57 +1,45 @@
-# 👋 Hi, I'm Marcus 
+# Marcus Jacob — AI Application Engineer
 
-## 🚀 About Me  
-I'm a passionate **Flutter Developer** and **Software Engineer** with a strong focus on building **AI-powered applications**. I specialize in crafting beautiful, scalable, and high-performance flutter applications.  
+AI Application Engineer specialising in LLM systems, RAG pipelines, and multi-provider AI orchestration. I build and ship production AI products — 20K+ combined downloads, 4.5+ ratings across mobile platforms.
 
-- 💻 **Tech Stack**: Flutter, Dart, Python, Riverpod, Firebase, Appwrite,   
-- 🎨 **Interests**: AI, Flutter, UI/UX, Backend Systems  
-- 📱 **Currently Building**: [ImageFlux](https://play.google.com/store/apps/details?id=com.marcusxtechnologies.imageflux) – an AI-powered content creation app  
-
-
-## 🔥 Projects  
-### 🚀 [ImageFlux](https://play.google.com/store/apps/details?id=com.marcusxtechnologies.imageflux)  
-A powerful AI content generator for **images, videos, music, and TTS**:
-- 🖼️ **Text-to-Image & Image-to-Image** – Create breathtaking AI-generated art  
-- 🎥 **Text-to-Video & Image-to-Video** – Bring ideas and photos to life with cinematic AI animation  
-- 🎵 **AI Music Generation** – Compose unique soundtracks instantly  
-- 🔊 **Realistic Text-to-Speech (TTS)** – Ultra-natural AI voiceovers  
-- 🚀 **AI-Powered Prompt Builder** – Smart suggestions for perfect results  
-- 📈 **Upscaling & Image Enhancement** – Boost resolution and sharpen details  
-- 🎭 **Diverse Artistic Styles** – From hyperrealism to abstract creativity 
-
-
-### 🤖 [MJ - Smarter AI Chatbot](https://play.google.com/store/apps/details?id=com.marcusxtechnologies.mj)  
-An **advanced AI chatbot** powered by **GPT-4o/GPT-4** offering:  
-- 🎨 **On-Demand Image Generation** (DALL·E 3)  
-- 🔍 **Smart Web Browsing & Search**  
-- 📰 **Concise News Summaries**  
-- 🎧 **Seamless Voice Mode**  
-- ⚙️ **Specialist MJ Personas**  
-- 🌗 **Dynamic Dark & Light Modes**  
-- 🌍 **Multi-Language Support**, including **Nigerian Pidgin**
-
-
-### 📱 [QR Leap](https://play.google.com/store/apps/details?id=com.marcusxtechnologies.qrleap)  
-The ultimate QR code **generation and scanning** app with:  
-- 🎨 **Beautiful QR Code Creation** – Customize colors, gradients, and shapes  
-- 🖼️ **Custom Image & Sketch Support** – Personalize your QR codes  
-- 🌙 **Dark & Light Mode Options** – Adapt the style to your preference  
-- 🔍 **Advanced ML-Powered Scanning** – Fast and precise QR code recognition  
-- ✍️ **Freehand Drawing Feature** – Add sketches directly onto QR codes  
-
-
-### 🛠️ Secure RESTful API Package  
-A **Dart backend package** for secure API handling with **JWT authentication, Appwrite support, and middleware architecture**.  
-
-
-## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcus963/)  
-- 📧 Email: marcusjacob5963@gmail.com  
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mj-963&layout=compact&theme=radical)  
+Currently building AI-powered applications at **Cyrex Ltd**, integrating conversational AI, agent systems, and generative AI into real consumer and enterprise products.
 
 ---
 
-🚀 *Let's build something amazing together!*
+## What I Build
+
+**LLM & Conversational AI** — multi-provider orchestration (OpenAI, Claude, Gemini, Grok), prompt pipelines, agent handoff systems, RAG pipelines with verified citations
+
+**Generative AI** — image, video, music, and speech generation; Stable Diffusion integrations; multi-modal platforms
+
+**Mobile & Cross-Platform** — Flutter/Dart applications across Android, iOS, and web with clean architecture (MVVM, Riverpod)
+
+---
+
+## Projects
+
+### [MediCortex](https://github.com/mj-963/medicortex) — AI Research Assistant
+RAG system over 50,000+ PubMed papers with hybrid semantic + keyword retrieval, citation-enforced responses, and sub-second query performance.
+`Python` `Qdrant` `Gemini` `Vertex AI` `Flutter`
+
+### [ChatO1](https://play.google.com/store/apps/details?id=com.marcusxtechnologies.mj) — Multi-Provider LLM Platform
+Unified interface for OpenAI, Claude, Gemini, and Grok with a standardised abstraction layer and intelligent model routing in progress.
+`Flutter` `Python` `Firebase` `LLM APIs`
+
+### [ImageFlux](https://play.google.com/store/apps/details?id=com.marcusxtechnologies.imageflux) — Generative AI Platform
+Multi-modal AI platform supporting image, video, music, and speech generation across multiple providers including custom models.
+`Flutter` `Python` `Node.js` `Firebase` `Generative AI APIs`
+
+---
+
+## Tech Stack
+
+`LLM APIs` `RAG` `Prompt Engineering` `Generative AI` `Model Orchestration`
+`Python` `Flutter/Dart` `Vector DBs (Qdrant)` `Firebase` `PostgreSQL` `MongoDB`
+`AWS` `GCP` `Appwrite` `REST APIs` `CI/CD`
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/marcus963/) · [Email](mailto:mjportfoliomail@gmail.com)
