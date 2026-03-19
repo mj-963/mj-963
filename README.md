@@ -22,13 +22,21 @@ Currently building AI-powered applications at **Cyrex Ltd**, integrating convers
 RAG system over 50,000+ PubMed papers with hybrid semantic + keyword retrieval, citation-enforced responses, and sub-second query performance.
 `Python` `Qdrant` `Gemini` `Vertex AI` `Flutter`
 
-### [ChatO1](https://play.google.com/store/apps/details?id=com.marcusxtechnologies.mj) — Multi-Provider LLM Platform
+### [MuseMify](https://play.google.com/store/apps/details?id=com.marcusxtechnologies.musemify) — AI Music & Audio Creator
+Full-stack AI music platform supporting song generation, AI covers, cinematic monologues, audio extension, and lyrics generation — with a social discovery feed and offline playback. 5.0 stars.
+`Flutter` `Python` `Firebase` `Generative AI APIs`
+
+### [ChatO1](https://play.google.com/store/apps/details?id=com.marcusxtechnologies.chato1) — Multi-Provider LLM Platform
 Unified interface for OpenAI, Claude, Gemini, and Grok with a standardised abstraction layer and intelligent model routing in progress.
 `Flutter` `Python` `Firebase` `LLM APIs`
 
 ### [ImageFlux](https://play.google.com/store/apps/details?id=com.marcusxtechnologies.imageflux) — Generative AI Platform
 Multi-modal AI platform supporting image, video, music, and speech generation across multiple providers including custom models.
 `Flutter` `Python` `Node.js` `Firebase` `Generative AI APIs`
+
+### [MJ Chatbot](https://play.google.com/store/apps/details?id=com.marcusxtechnologies.mj) — AI Companion App
+GPT-4o powered chatbot with image generation, web search, voice mode, specialist personas, and multi-language support including Nigerian Pidgin. 10K+ downloads.
+`Flutter` `Python` `Firebase` `OpenAI APIs`
 
 ---
 
