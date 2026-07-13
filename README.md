@@ -1,4 +1,4 @@
-# Marcus Jacob — AI Application Engineer
+# Marcus Jacob — AI Application Engineer | Flutter
 
 AI Application Engineer specialising in LLM systems, RAG pipelines, and multi-provider AI orchestration. I build and ship production AI products — 20K+ combined downloads, 4.5+ ratings across mobile platforms.
 
@@ -8,11 +8,11 @@ Currently building AI-powered applications at **Cyrex Ltd**, integrating convers
 
 ## What I Build
 
+**Mobile & Cross-Platform** — Flutter/Dart applications across Android, iOS, and web with clean architecture (MVVM, Riverpod)
+
 **LLM & Conversational AI** — multi-provider orchestration (OpenAI, Claude, Gemini, Grok), prompt pipelines, agent handoff systems, RAG pipelines with verified citations
 
 **Generative AI** — image, video, music, and speech generation; Stable Diffusion integrations; multi-modal platforms
-
-**Mobile & Cross-Platform** — Flutter/Dart applications across Android, iOS, and web with clean architecture (MVVM, Riverpod)
 
 ---
 
@@ -30,7 +30,7 @@ Full-stack AI music platform supporting song generation, AI covers, cinematic mo
 Unified interface for OpenAI, Claude, Gemini, and Grok with a standardised abstraction layer and intelligent model routing in progress.
 `Flutter` `Python` `Firebase` `LLM APIs`
 
-### [ImageFlux](https://play.google.com/store/apps/details?id=com.marcusxtechnologies.imageflux) — Generative AI Platform
+### [ImageFlux](https://apps.apple.com/ng/app/imageflux-ai-image-video-gen/id6759462639) — Generative AI Platform
 Multi-modal AI platform supporting image, video, music, and speech generation across multiple providers including custom models.
 `Flutter` `Python` `Node.js` `Firebase` `Generative AI APIs`
 
