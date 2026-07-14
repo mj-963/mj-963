@@ -12,7 +12,7 @@ Currently building AI-powered consumer and enterprise products at **Cyrex Ltd**.
 
 ## What I Build
 
-**Flutter & Cross-Platform Mobile** — Android, iOS, and web applications using Flutter/Dart, clean architecture, MVVM, Riverpod, Firebase, and REST APIs.
+**Flutter & Cross-Platform Mobile** — Android, iOS, and web applications using Flutter/Dart, clean architecture, MVVM, Riverpod, Firebase, Appwrite and REST APIs.
 
 **LLM & Conversational AI** — Multi-provider orchestration across OpenAI, Claude, Gemini, and Grok, with prompt pipelines, model routing, agent handoffs, web search, and voice experiences.
 
@@ -44,25 +44,25 @@ A RAG system over 50,000+ PubMed papers with hybrid semantic and keyword retriev
 
 A full-stack AI music platform for song generation, AI covers, cinematic monologues, audio extension, lyrics generation, social discovery, playlists, and offline playback.
 
-`Flutter` `Python` `Firebase` `Generative AI APIs`
+`Flutter` `Python` `Appwrite` `Generative AI APIs`
 
 ### [ChatO1](https://play.google.com/store/apps/details?id=com.marcusxtechnologies.chato1) — Multi-Provider LLM Platform
 
 A unified AI interface for OpenAI, Claude, Gemini, and Grok, built around a standardised provider abstraction and intelligent model routing.
 
-`Flutter` `Python` `Firebase` `LLM APIs`
+`Flutter` `Appwrite` `Firebase` `LLM APIs`
 
 ### [ImageFlux](https://apps.apple.com/ng/app/imageflux-ai-image-video-gen/id6759462639) — Multi-Modal AI Studio
 
 A mobile creative AI studio for generating images, videos, music, voiceovers, sound design, and lip-synced content across multiple AI models.
 
-`Flutter` `Python` `Node.js` `Firebase` `Generative AI APIs`
+`Flutter` `Python` `Node.js` `Firebase` `Appwrite` `Generative AI APIs`
 
 ### [MJ Chatbot](https://play.google.com/store/apps/details?id=com.marcusxtechnologies.mj) — AI Companion App
 
 A GPT-4o-powered chatbot with image generation, web search, voice mode, specialist personas, and multi-language support including Nigerian Pidgin. 10K+ downloads.
 
-`Flutter` `Python` `Firebase` `OpenAI APIs`
+`Flutter` `Firebase` `OpenAI APIs`
 
 ---
 
